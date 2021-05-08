@@ -1,6 +1,7 @@
 # AUTOMATED-PYTHON-MENU
 
 🔰 Created a Automated python menu for performing some tasks and setups of  Linux, AWS, Docker, Ansible, Webserver and many more on Local machine or Remote machine.
+🔰 Complete idea is to convert it into a voice based program or a web application so that setups/tasks can be performed on any system remotely through simple voice commands.
 
 - Video Demonstration: https://lnkd.in/d4UfgKx
 
