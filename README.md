@@ -5,17 +5,17 @@
 ## Description :
 Auto Pilot is used for performing repetitive tasks and automate setup of Linux, AWS, Docker, Ansible, Web Server and many more on Local machine or Remote machine. You don’t need to remember cli commands or know the complete steps to be performed manually for installations & configurations. Using this menu tool you can perform most tasks related to: Basic Linux Operations, Web Server Configuration, Big Data - Hadoop Management, Docker Management,  AWS compute resources, Ansible.
 
-**Basic Linux Operations:** Check Date, Check Calendar, Configure yum, Install a package, Run Any Command of your choice on Local or Remote machine.
+- **Basic Linux Operations:** Check Date, Check Calendar, Configure yum, Install a package, Run Any Command of your choice on Local or Remote machine.
 
-**Configure Web Server:** Install httpd and start the service.
+- **Configure Web Server:** Install httpd and start the service.
 
-**Big Data - Hadoop:** Download & Install Hadoop and JDK, Configuring Master node and slave nodes, Show all the Running services and cluster report, Create and delete any file, Start/Stop Masternode and Datanode services, Read/Delete file from cluster.
+- **Big Data - Hadoop:** Download & Install Hadoop and JDK, Configuring Master node and slave nodes, Show all the Running services and cluster report, Create and delete any file, Start/Stop Masternode and Datanode services, Read/Delete file from cluster.
 
-**Docker:** Install Docker, Start/Stop Docker Service, View Docker Info, View Active containers, View All containers, View Downloaded images, Pull an image, Launch a container, Start/Stop a container, Remove an image and Remove a container.
+- **Docker:** Install Docker, Start/Stop Docker Service, View Docker Info, View Active containers, View All containers, View Downloaded images, Pull an image, Launch a container, Start/Stop a container, Remove an image and Remove a container.
 
-**AWS:** Launch an instance, Start an Instance, Stop an Instance, Describe All Instances, Create a Volume, Attach volume with instance, Partitioning the attached volume, configure Web Server, Format Partition and Mount the Web Server to Volume
+- **AWS:** Launch an instance, Start an Instance, Stop an Instance, Describe All Instances, Create a Volume, Attach volume with instance, Partitioning the attached volume, configure Web Server, Format Partition and Mount the Web Server to Volume
 
-**Ansible:** Install Ansible, Check Ansible Version, List all Hosts, Set inventory, Ansible Configuration,  Ping All Hosts, Install httpd in all hosts and Start httpd service in all hosts.
+- **Ansible:** Install Ansible, Check Ansible Version, List all Hosts, Set inventory, Ansible Configuration,  Ping All Hosts, Install httpd in all hosts and Start httpd service in all hosts.
 
 
 🔰 Complete idea is to convert it into a voice based program or a web application so that setups/tasks can be performed on any system remotely through simple voice commands.
