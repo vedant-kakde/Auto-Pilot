@@ -1,9 +1,9 @@
-# AUTOMATED-PYTHON-MENU
+# Auto Pilot
 
-🔰 Created a Automated python menu for performing some tasks and setups of  Linux, AWS, Docker, Ansible, Webserver and many more on Local machine or Remote machine.
+🔰 Auto Pilot is used for performing some tasks and setups of Linux, AWS, Docker, Ansible, Webserver and many more on Local machine or Remote machine.
 
 ## Description :
-Created an automated python menu for performing repetitive tasks and automate setup of Linux, AWS, Docker, Ansible, Web Server and many more on Local machine or Remote machine. You don’t need to remember cli commands or know the complete steps to be performed manually for installations & configurations. Using this menu tool you can perform most tasks related to: Basic Linux Operations, Web Server Configuration, Big Data - Hadoop Management, Docker Management,  AWS compute resources, Ansible.
+Auto Pilot is used for performing repetitive tasks and automate setup of Linux, AWS, Docker, Ansible, Web Server and many more on Local machine or Remote machine. You don’t need to remember cli commands or know the complete steps to be performed manually for installations & configurations. Using this menu tool you can perform most tasks related to: Basic Linux Operations, Web Server Configuration, Big Data - Hadoop Management, Docker Management,  AWS compute resources, Ansible.
 
 **Basic Linux Operations:** Check Date, Check Calendar, Configure yum, Install a package, Run Any Command of your choice on Local or Remote machine.
 
